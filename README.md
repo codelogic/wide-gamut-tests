@@ -1,10 +1,10 @@
 # Wide Gamut Test Images
 
-This repository contains a series of wide-gamut test images. The images are prefixed with the color space of the embeded profile.
+This repository contains a series of wide-gamut test images. The images are prefixed with the color space of the embedded profile.
 
 ## Methodology
 
-The primary purpose of these images is to provide simple test images for checking to see how different rendering technology is affected by non-sRGB color gamuts. For these tests, the embeded color profile keeps the same whitepoint and gamma values as the source sRGB image to reduce color and brightness variations in the output images.
+The primary purpose of these images is to provide simple test images for checking to see how different rendering technology is affected by non-sRGB color gamuts. For these tests, the embedded color profile keeps the same whitepoint and gamma values as the source sRGB image to reduce color and brightness variations in the output images.
 
 ## Process
 
