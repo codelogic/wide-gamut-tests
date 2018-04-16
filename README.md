@@ -40,11 +40,11 @@ The gamma value is set to 2.200
 
 ### Images
 
-![P3-sRGB-red.jpg](P3-sRGB-red.jpg)
-![P3-sRGB-green.jpg](P3-sRGB-green.jpg)
-![P3-sRGB-blue.jpg](P3-sRGB-blue.jpg)
-![P3-sRGB-color-ring.jpg](P3-sRGB-color-ring.jpg)
-![P3-sRGB-color-bars.jpg](P3-sRGB-color-bars.jpg)
+* [P3-sRGB-red.jpg](P3-sRGB-red.jpg)
+* [P3-sRGB-green.jpg](P3-sRGB-green.jpg)
+* [P3-sRGB-blue.jpg](P3-sRGB-blue.jpg)
+* [P3-sRGB-color-ring.jpg](P3-sRGB-color-ring.jpg)
+* [P3-sRGB-color-bars.jpg](P3-sRGB-color-bars.jpg)
 
 ## Rec. 2020
 
@@ -58,11 +58,11 @@ The gamma value is set to 2.200
 
 ### Images
 
-![R2020-sRGB-red.jpg](R2020-sRGB-red.jpg)
-![R2020-sRGB-green.jpg](R2020-sRGB-green.jpg)
-![R2020-sRGB-blue.jpg](R2020-sRGB-blue.jpg)
-![R2020-sRGB-color-ring.jpg](R2020-sRGB-color-ring.jpg)
-![R2020-sRGB-color-bars.jpg](R2020-sRGB-color-bars.jpg)
+* [R2020-sRGB-red.jpg](R2020-sRGB-red.jpg)
+* [R2020-sRGB-green.jpg](R2020-sRGB-green.jpg)
+* [R2020-sRGB-blue.jpg](R2020-sRGB-blue.jpg)
+* [R2020-sRGB-color-ring.jpg](R2020-sRGB-color-ring.jpg)
+* [R2020-sRGB-color-bars.jpg](R2020-sRGB-color-bars.jpg)
 
 ## RGB to GBR
 
@@ -76,4 +76,4 @@ If the words and colors are aligned, then the profile was processed correctly.
 
 ### Images
 
-![rgb-to-gbr-test.jpg](rgb-to-gbr-test.jpg)
+* [rgb-to-gbr-test.jpg](rgb-to-gbr-test.jpg)
