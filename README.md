@@ -28,7 +28,7 @@ This is the profile information for the source color space.  These values were p
 
 The gamma value is set to 2.200
 
-## DCI-P3 Conversion Specs
+## DCI-P3
 
 P3 prefixed images were created using a manually entered DCI-P3 profile with a D65 whitepoint. These values were pulled from the [wikipedia article on DCI-P3](https://en.wikipedia.org/wiki/DCI-P3).
 
@@ -38,7 +38,15 @@ P3 prefixed images were created using a manually entered DCI-P3 profile with a D
 
 The gamma value is set to 2.200
 
-## R2020 Conversion Specs
+### Images
+
+![P3-sRGB-red.jpg](P3-sRGB-red.jpg)
+![P3-sRGB-green.jpg](P3-sRGB-green.jpg)
+![P3-sRGB-blue.jpg](P3-sRGB-blue.jpg)
+![P3-sRGB-color-ring.jpg](P3-sRGB-color-ring.jpg)
+![P3-sRGB-color-bars.jpg](P3-sRGB-color-bars.jpg)
+
+## Rec. 2020
 
 R2020 prefixed images were created using a manually entered R2020 profile with a D65 whitepoint. These values were pulled from the [wikipedia article on Rec. 2020](https://en.wikipedia.org/wiki/Rec._2020).
 
@@ -47,6 +55,14 @@ R2020 prefixed images were created using a manually entered R2020 profile with a
 | ITU-R BT.2020 | 0.3127 | 0.3290 | 0.708 | 0.292 | 0.170 | 0.797 | 0.131 | 0.046 |
 
 The gamma value is set to 2.200
+
+### Images
+
+![R2020-sRGB-red.jpg](R2020-sRGB-red.jpg)
+![R2020-sRGB-green.jpg](R2020-sRGB-green.jpg)
+![R2020-sRGB-blue.jpg](R2020-sRGB-blue.jpg)
+![R2020-sRGB-color-ring.jpg](R2020-sRGB-color-ring.jpg)
+![R2020-sRGB-color-bars.jpg](R2020-sRGB-color-bars.jpg)
 
 ## RGB to GBR
 
@@ -57,3 +73,7 @@ This test image was created by assigning a custom profile that rotates the RGB p
 | RGB to GBR | 0.3127 | 0.3290 | 0.150 | 0.060 | 0.640 | 0.330 | 0.300 | 0.600 |
 
 If the words and colors are aligned, then the profile was processed correctly.
+
+### Images
+
+![rgb-to-gbr-test.jpg](rgb-to-gbr-test.jpg)
