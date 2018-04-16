@@ -78,7 +78,7 @@ The gamma value is set to 2.200
 
 ## RGB to GBR
 
-This test image was created by assigning a custom profile that rotates the RGB primary color points from the original sRGB color profile. Red -> Green, Green -> Blue, Blue -> Red. If the words and colors are aligned, then the profile was processed correctly, if not, then the device ignored the color profile compleatly.
+This test image was created by assigning a custom profile that rotates the RGB primary color points from the original sRGB color profile. Red -> Green, Green -> Blue, Blue -> Red. If the words and colors are aligned, then the profile was processed correctly, if not, then the device ignored the color profile completely.
 
 | Profile | W<sub>x</sub>| W<sub>y</sub>| R<sub>x</sub>| R<sub>y</sub>| G<sub>x</sub>| G<sub>y</sub>| B<sub>x</sub>| B<sub>y</sub> |
 |------------|--------|--------|-------|-------|-------|-------|-------|-------|
