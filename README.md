@@ -38,13 +38,19 @@ P3 prefixed images were created using a manually entered DCI-P3 profile with a D
 
 The gamma value is set to 2.200
 
-### Images
-
+### JPG's
 * [P3-sRGB-red.jpg](P3-sRGB-red.jpg)
 * [P3-sRGB-green.jpg](P3-sRGB-green.jpg)
 * [P3-sRGB-blue.jpg](P3-sRGB-blue.jpg)
 * [P3-sRGB-color-ring.jpg](P3-sRGB-color-ring.jpg)
 * [P3-sRGB-color-bars.jpg](P3-sRGB-color-bars.jpg)
+
+### PNG's
+* [P3-sRGB-red.png](P3-sRGB-red.png)
+* [P3-sRGB-green.png](P3-sRGB-green.png)
+* [P3-sRGB-blue.png](P3-sRGB-blue.png)
+* [P3-sRGB-color-ring.png](P3-sRGB-color-ring.png)
+* [P3-sRGB-color-bars.png](P3-sRGB-color-bars.png)
 
 ## Rec. 2020
 
@@ -56,24 +62,32 @@ R2020 prefixed images were created using a manually entered R2020 profile with a
 
 The gamma value is set to 2.200
 
-### Images
-
+### JPG's
 * [R2020-sRGB-red.jpg](R2020-sRGB-red.jpg)
 * [R2020-sRGB-green.jpg](R2020-sRGB-green.jpg)
 * [R2020-sRGB-blue.jpg](R2020-sRGB-blue.jpg)
 * [R2020-sRGB-color-ring.jpg](R2020-sRGB-color-ring.jpg)
 * [R2020-sRGB-color-bars.jpg](R2020-sRGB-color-bars.jpg)
 
+### PNG's
+* [R2020-sRGB-red.png](R2020-sRGB-red.png)
+* [R2020-sRGB-green.png](R2020-sRGB-green.png)
+* [R2020-sRGB-blue.png](R2020-sRGB-blue.png)
+* [R2020-sRGB-color-ring.png](R2020-sRGB-color-ring.png)
+* [R2020-sRGB-color-bars.png](R2020-sRGB-color-bars.png)
+
 ## RGB to GBR
 
-This test image was created by assigning a custom profile that rotates the RGB primary color points from the original sRGB color profile. Red -> Green, Green -> Blue, Blue -> Red
+This test image was created by assigning a custom profile that rotates the RGB primary color points from the original sRGB color profile. Red -> Green, Green -> Blue, Blue -> Red. If the words and colors are aligned, then the profile was processed correctly, if not, then the device ignored the color profile compleatly.
 
 | Profile | W<sub>x</sub>| W<sub>y</sub>| R<sub>x</sub>| R<sub>y</sub>| G<sub>x</sub>| G<sub>y</sub>| B<sub>x</sub>| B<sub>y</sub> |
 |------------|--------|--------|-------|-------|-------|-------|-------|-------|
 | RGB to GBR | 0.3127 | 0.3290 | 0.150 | 0.060 | 0.640 | 0.330 | 0.300 | 0.600 |
 
-If the words and colors are aligned, then the profile was processed correctly.
+The gamma value is set to 2.200
 
-### Images
-
+### JPG
 * [rgb-to-gbr-test.jpg](rgb-to-gbr-test.jpg)
+
+### PNG
+* [rgb-to-gbr-test.png](rgb-to-gbr-test.png)
